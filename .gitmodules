@@ -1,0 +1,6 @@
+[submodule "src/flutter"]
+	path = src/flutter
+	url = https://github.com/PinzaruDaniel/autodiag_flutter.git
+[submodule "src/backend"]
+	path = src/backend
+	url = https://github.com/PinzaruDaniel/autodiag_backend.git
